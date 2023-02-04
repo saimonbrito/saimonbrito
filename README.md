@@ -1,6 +1,6 @@
 #Ola sou mauricio fernandes 👋
  
-- 🌱 Seja todo muito Bem vindo - fique a vontade para explorar o meu mindo de conhecimento 
+- 🌱 Seja todo muito Bem vindo - fique a vontade para explorar o meu mundo de conhecimento
 
 <div align="center">
   <a href="https://github.com/saimonbrito">
