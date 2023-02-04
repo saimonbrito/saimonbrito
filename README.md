@@ -1,10 +1,6 @@
 #Ola sou mauricio fernandes 👋
-
-
-
-
-- 🌱 estudo javascript,nodejs,react- 
-
+ 
+- 🌱 Seja todo muito Bem vindo - fique a vontade para explorar o meu mindo de conhecimento 
 
 <div align="center">
   <a href="https://github.com/saimonbrito">
